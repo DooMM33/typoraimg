@@ -1,0 +1,2 @@
+# typora-img
+for picGo
